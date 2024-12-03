@@ -1,5 +1,5 @@
 # 💫 Rohit this side !!!
-🔭 I’m currently working on my web designing<br>🤝 I’m looking for help with developing more modern world web design.<br>🌱 I’m currently learning Full Stack Development <br>⚡ Fun fact - lazy , But always excited when its come to make New UI Design and Templete.
+🔔 I’m currently working on my Angular project<br>🤝 I’m looking for help with developing more modern world web design.<br>🌱 🌱 I’m currently learning Node.js and Three.js<br>⚡ Fun fact - lazy , But always excited when its come to make New UI Design and Templete.
 
 
 ## 🌐 Socials:
