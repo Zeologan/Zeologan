@@ -1,3 +1,4 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 <h1>Hi 👋, I’m an Application Developer with 1+ year of frontend experience.</h1>
 <p>Crafting clean, responsive UIs with Angular, JavaScript, and a passion for seamless user experiences</p>
 
