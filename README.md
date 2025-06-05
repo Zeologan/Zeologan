@@ -1,9 +1,9 @@
 <h1>Hi 👋, I’m an Application Developer with 1+ year of frontend experience.</h1>
 <p>Crafting clean, responsive UIs with Angular, JavaScript, and a passion for seamless user experiences</p>
 
-
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/Zeologan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohit855/) 
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/Zeologan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohit855/)
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
@@ -18,6 +18,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a></p>
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Zeologan&theme=city_light&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zeologan&theme=city_light&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeologan&theme=city_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
